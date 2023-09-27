@@ -1,3 +1,3 @@
 Prints da inserção no banco de dados MongoDB
 
-![Imagem1](https://prnt.sc/Ib3oQQ6Nnc3y)
+![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
